@@ -21,6 +21,13 @@ button {
     cursor: pointer;
 }
 
+
+
+button:active {
+    background-color: #ffffff;
+  }
+  
+
 h1{
     display: flex;
     font-weight:900;
